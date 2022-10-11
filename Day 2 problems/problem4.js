@@ -1,0 +1,14 @@
+let name="Aman Kumar Verma";
+let school="Rani Laxmi Bai School";
+let grade=12;
+let section="A";
+let M1=45;
+let M2=47;
+let M3=49;
+console.log("RESULT");
+console.log("NAME=",name);
+console.log("SCHOOL NAME=",school);
+console.log("GRADE & SECTION=",grade+section);
+console.log("HINDI MARKS=",M1);
+console.log("ENGLISH MARKS=",M2);
+console.log("MATHS MARKS=",M3);
